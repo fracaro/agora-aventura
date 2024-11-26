@@ -4,10 +4,11 @@ background-color: blue;
 color: white;
 display flex: ;
 justify-content: center;
+}
+button{
+background-color: brown;
 
-
-
-
+color: rgb(168, 35, 35);
 
 
 }
